@@ -7,3 +7,6 @@ You should use Biscuit if you're embarking on a smaller project or just don't fe
 
 Project Page: 
 <a href="http://biscuitcss.glitch.me" target="_blank">Biscuit Framework</a>
+
+Follow the Biscuit 💛🤗
+<a href="http://twitter.com/biscuitcss" target="_blank">Twitter</a>
