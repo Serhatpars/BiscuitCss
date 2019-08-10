@@ -1,4 +1,4 @@
-# BiscuitCss
+# BiscuitCss [Beta v0.1]
 Next generation Css Framework. 
 
 • Is Biscuit for you?
