@@ -12,4 +12,4 @@ Follow the Biscuit 🤗 <br>
 <a href="http://twitter.com/biscuitcss" target="_blank">Twitter</a>
 
 🎁 Support the Developer <br>
-<a href="https://www.patreon.com/serhatxpvrs">Support 💛</a>
+<a href="https://www.patreon.com/serhatpars">Support 💛</a>
